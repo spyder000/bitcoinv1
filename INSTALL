@@ -1,0 +1,5 @@
+Building BitcoinV1
+
+See doc/build-*.md for instructions on building bitcoinv1d,
+the intended-for-services, no-graphical-interface, reference
+implementation of BitcoinV1.

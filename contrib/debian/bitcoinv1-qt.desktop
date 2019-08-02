@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=BitcoinV1
+Comment=BitcoinV1 P2P Cryptocurrency
+Comment[fr]=BitcoinV1, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=BitcoinV1, eşten eşe kriptografik sanal para birimi
+Exec=bitcoinv1-qt %u
+Terminal=false
+Type=Application
+Icon=bitcoinv1128
+MimeType=x-scheme-handler/bitcoinv1;
+Categories=Office;Finance;

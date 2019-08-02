@@ -1,0 +1,11 @@
+[Protocol]
+exec=bitcoinv1-qt '%u'
+protocol=bitcoinv1
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false
